@@ -1,2 +1,2 @@
-# Encry-tix_SMS_Spam_detection
+# Encryptix_SMS_Spam_detection
 A Machine Learning Project
